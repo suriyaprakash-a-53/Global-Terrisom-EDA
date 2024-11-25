@@ -11,13 +11,18 @@
 # Problem
 
 ● To Find out the hot zone of terrorism 
+
 ● Find out the key patterns and identify the trends
 
 # Tools used:-
 
 ● Microsoft Excel
+
 ● Microsoft Powery Query
+
 ● MicrosoftPower BI
+
+● Data Modelling
 
  # Cleaning and Analyzing using Power Query
  
@@ -52,21 +57,25 @@
 Trends Over Time:
 
 ● Displays the frequency of terrorist incidents across years.
+
 ● Identifies significant peaks and declines in global terrorism trends.
 
 Geographical Analysis:
 
 ● Visualizes attack hotspots using maps.
+
 ● Highlights regions and countries most affected by terrorism.
 
 Attack Details:
 
 ● Breaks down data by attack type (e.g., bombings, armed assaults).
+
 ● Provides insights into commonly targeted sectors (e.g., government, civilians).
 
 Terrorist Groups:
 
 ● Displays top active terrorist organizations.
+
 ● Tracks their activity and impact across regions.
 
 <!---
