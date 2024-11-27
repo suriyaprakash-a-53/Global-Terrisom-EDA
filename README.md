@@ -78,6 +78,11 @@ Terrorist Groups:
 
 ● Tracks their activity and impact across regions.
 
+# View the Global Terrorism - EDA Dashboard on Power BI
+
+
+![Screenshot](https://github.com/user-attachments/assets/f15a01e9-5a68-41cb-a778-b93a1c4e7675)
+
 <!---
 SURIYA-PRAKASHA/SURIYA-PRAKASHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
